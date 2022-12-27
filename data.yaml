@@ -1,0 +1,5 @@
+train: dataset/training_set/images  
+val: dataset/validation_set/images  
+
+nc: 7  # number of classes
+names: ['car', 'motorbike', 'cycle', 'pedestrian', 'truck', 'bus', 'three wheeler']  # class names
