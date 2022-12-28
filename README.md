@@ -25,15 +25,15 @@ Reference: [YOLOv5](https://github.com/ultralytics/yolov5)
 ## Object Tracking
 Three different object tracking algorithms are used in this project.
 ### 1. DEEPSORT
-Reference: [Link](https://github.com/nwojke/deep_sort)
-slower, accurate 
-Features for the deepsort are given using a siamese network
+Reference: [Link](https://github.com/nwojke/deep_sort)<br>
+slower, accurate <br>
+Features for the deepsort are given using a siamese network<br>
 ### 2. SORT
-Reference: [Link](https://github.com/abewley/sort)
-fast, reasonably accurate
+Reference: [Link](https://github.com/abewley/sort)<br>
+fast, reasonably accurate<br>
 ### 3. Conventional
-faster, not accurate
-Implemented using features like contours, color, IoU etc
+faster, not accurate<br>
+Implemented using features like contours, color, IoU etc<br>
 
 ## Server
 A socket server code is written on different thread, which emits data to connected clients whenever there is a unique vehicle 
