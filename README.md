@@ -18,7 +18,7 @@ We have a total of four YOLOv5 models.
 1. YOLOv5n - Faster, low accuracy
 2. YOLOv5s - little slower than YOLOv5n, better accuracy compared to n model
 3. YOLOv5m - Good classification accuracy
-4. YOLOv5m - 800x800, Can give more than 95% accuracy
+4. YOLOv5m - 800x800, Can give more than 95% accuracy<br>
 Reference: [YOLOv5](https://github.com/ultralytics/yolov5)
 
 
