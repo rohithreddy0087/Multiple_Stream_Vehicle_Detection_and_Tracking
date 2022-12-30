@@ -4,6 +4,10 @@ Vehicle detection and tracking of multiple video streams on a single edge device
 ## Description
 This project uses YOLOv5 based object detection algorithm to detect vehicles in the live video feed or recorded videos. Based on the edge device used different object tracking algorithms such as DEEPSORT, SORT and CONVENTIONAL trackers are used. This software is configuration based and acts as a server, that emits a json whenever a unique vehicle is detected in the zone. 
 
+
+https://user-images.githubusercontent.com/51110057/210043009-204fbea6-12fd-4318-b27e-ab5a259b3056.mp4
+
+
 ## Architecture
 
 ### Batch-wise inference
